@@ -1,2 +1,2 @@
-# RPS-game-using-python
-Its a simple game using basics of python 
+# Mini projects of python 
+projects using basics of python 
